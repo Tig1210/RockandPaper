@@ -1,4 +1,5 @@
 # RockandPaper
+## link:  https://tig1210.github.io/RockandPaper/
 ## Игра камень, ножницы и бумага
 ### Разработан на основе:
 - Html
